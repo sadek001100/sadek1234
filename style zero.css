@@ -1,0 +1,15 @@
+table{
+    width: 100%;
+    /* border: 1px solid #eee; */
+}
+table  td{
+    padding: 15px;
+    background-color: #eee;
+
+}
+table thead td {
+    background-color: rgb(99, 70, 70);
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
